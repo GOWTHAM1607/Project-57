@@ -1,0 +1,60 @@
+body{
+  margin:0;
+    padding-top: 800px;
+}
+.profile{
+    width: 200px;
+    margin-bottom: :50px;
+    border-radius: 50%;
+}
+#welcome{
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color:cyan; 
+    left:0;
+    top:0;
+    bottom:0;
+    right:0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.9;
+        background:linear-gradient(blue 0%,purple 100%);
+    display: table ;
+    text-align: center;
+    vertical-align: middle;
+    
+    
+}
+.tim{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    
+}
+h1{
+    line-height: 1.2;
+    font-family: inherit;
+    font-weight: 300;
+    
+}
+h2{
+  line-height: 1.2;
+    font-family: monospace;
+    font-weight: 300;
+      
+}
+#bio{
+    padding: 50px;
+    text-align: center;
+    font-family: calibri;
+        font-size:25px
+}
+.line{
+    background-color: black ;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+        
+}
